@@ -1,0 +1,11 @@
+This folder contains five subfolders:
+1. Data_extract
+
+2. Cores
+3. Neighbbors
+
+4. cores_neighbors : Stores the output user groups of ST_DBSCAN
+5. Jaccard : Stores the resource-to-resource comparison matrices in the form of Tablbeau files. Location filters can be added to each 
+            Tableau file to view all resources accessed by user groups at that location. Filters on "resource 1" field can be added to view
+            all resources similar to selected value of "resource 1".
+
