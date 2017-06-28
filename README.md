@@ -1,6 +1,8 @@
 # nanoHUB-user-access-data-clustering
 Thesis topic : Data clustering techniques to identify User Groups and Resource Grouping in nanoHUB
 
+(note : Please find the complete result dataset on Purdue University Research Reporsitory - https://purr.purdue.edu/projects/mugdhathesis/files/browse?subdir=Final%20Results )
+
 Below is a step wise implementation of the methodology used in my thesis. The following steps are written for the sample year 2011. The names of all input and output files will change for different years.
 
 STEP 1 : 
