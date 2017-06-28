@@ -9,5 +9,4 @@ select amu.id, amu.ip, jra.child_id, amu.datetime ,ig.ipLATITUDE, ig.ipLONGITUDE
  and http_return_code = 200
  and amu.datetime between '2011-01-01' and amu.datetime <= '2012-01-01'
  and amu.cms_action_name = jra.child_id
- group by ig.ip
  order by dayofyear(amu.datetime)	;
